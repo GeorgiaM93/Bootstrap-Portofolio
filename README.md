@@ -1,3 +1,5 @@
 # Bootstrap-Portofolio
 
-Please click the following link to visit my portofolio : ![portofolio](https://user-images.githubusercontent.com/105521641/221324254-e135c896-4282-4ce6-9d1e-8ce1f18d3f64.jpg)
+Please click the following link to visit my portofolio : https://georgiam93.github.io/Bootstrap-Portofolio/ 
+
+![portofolio](https://user-images.githubusercontent.com/105521641/221324311-375c7c70-13f0-4e30-b39c-f18da2b16982.jpg)
